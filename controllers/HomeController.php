@@ -20,4 +20,5 @@ class HomeController
         // var_dump($listProducts);die();
         require_once './views/listProduct.php';
     }
+
 }

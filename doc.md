@@ -1,12 +1,33 @@
-### Cấu trúc thư mục
+<<<<<<< HEAD
 
-1. commons // File dùng chung cả dự án
-2. uploads // Folder lưu trữ file upload
+Cấu trúc thư mục
+commons // File dùng chung cả dự án
 
-3. controllers // Xử lý logic
-4. models // Thao tác cơ sở dữ liệu
-5. views // Hiển thị
-6. index.php // Điều hướng
+uploads // Folder lưu trữ file upload
 
+controllers // Xử lý logic
 
-- Cấu hình DB trong file commons/env.php
+models // Thao tác cơ sở dữ liệu
+
+views // Hiển thị
+
+index.php // Điều hướng
+
+=======
+
+Cấu trúc thư mục
+commons // File dùng chung cả dự án
+
+uploads // Folder lưu trữ file upload
+
+controllers // Xử lý logic
+
+models // Thao tác cơ sở dữ liệu
+
+views // Hiển thị
+
+index.php // Điều hướng
+
+8a20903 (fix code)
+
+Cấu hình DB trong file commons/env.php
